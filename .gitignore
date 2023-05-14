@@ -16,6 +16,7 @@ src/declarations/
 # frontend code
 node_modules/
 dist/
+src/day_1_frontend/
 
 # environment variables
 .env
